@@ -1,1 +1,1 @@
-# GUI_assignment
+# Hotel System Selling Site
